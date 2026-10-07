@@ -1,0 +1,15 @@
+{
+  "name": "ball-balance-vehicle",
+  "description": "MSPM0 底盘控制与硬件工程档案，含串口安全修复和主机测试",
+  "topics": [
+    "embedded",
+    "c",
+    "mspm0",
+    "motor-control"
+  ],
+  "visibility": "private",
+  "owner_type": "personal",
+  "default_branch_proposal": "main",
+  "settings_applied": false,
+  "private": true
+}

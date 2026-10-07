@@ -1,0 +1,36 @@
+# CCS/SysConfig generated build products
+/Debug/
+/Release/
+*.launch
+
+# CCS index/cache
+.ccsindex/
+.metadata/
+
+# Temporary inspection and rendered-document files
+/tmp/
+
+# Common editor/OS noise
+*.log
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+.DS_Store
+
+# Local private material and environment files
+.env
+.env.*
+!.env.example
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+Thumbs.db
+private/
+private-originals/
+*.local.json
+*.local.yaml
+*.local.yml
